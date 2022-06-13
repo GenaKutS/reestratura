@@ -35,3 +35,11 @@ Our team (AVG) wants to create a clinical registry using popular technologies.Cu
 * project readme, writing a user story,
 * writing basic  logic 
 * design of data structures, and creation of ER diagrams.
+
+---
+Team AVG
+[Тіторук Андрій Юрійович](https://github.com/andry-titoruk)
+[Куц Геннадий Євгенович](https://github.com/GenaKutS)
+[Іващенко Владислав Олександрович](https://github.com/vladyslav-what-is-love)
+
+
